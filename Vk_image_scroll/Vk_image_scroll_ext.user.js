@@ -2,6 +2,7 @@
 // @name        Vk image scroll
 // @namespace   vk.com
 // @include     https://vk.com/*
+// @include     http://vk.com/*
 // @version     1
 // @grant       none
 // @require     http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js
