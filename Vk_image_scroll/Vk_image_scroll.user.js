@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name        Vk image scroll
 // @namespace   vk.com
+// @include     https://vk.com/*
 // @include     http://vk.com/*
 // @version     1
 // @grant       none
